@@ -1,0 +1,21 @@
+.main {
+  /*position: relative;*/
+}
+
+.box1 {
+  /*position: static; default*/
+
+  /*position: relative;
+  left: 50px;
+  */
+
+  /*position: absolute;
+   display: none;
+  bottom: 0;*/
+}
+.box2 {
+  position: fixed;
+  right: 0;
+}
+.box3 {
+}
