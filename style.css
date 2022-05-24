@@ -6,9 +6,9 @@ body {
   margin: 0;
 }
 .container {
-  background-color: whitesmoke;
+  background-color: lightblue;
   padding: 20px;
-  color: gray;
+  color: black;
   height: 40px;
   display: flex;
   align-items: center;
